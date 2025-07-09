@@ -8,7 +8,7 @@ Custom AudioVideo XML shape code for Draw.io's Insert Shapes attribute editor.
 
 ## Custom AV Shapes
 
-This repository contains XML code for creating custom AV shapes in Draw.io.
+This repository contains XML code for creating custom Audio Video shapes in Draw.io.
 
 ## Resources
 
@@ -20,7 +20,7 @@ This repository contains XML code for creating custom AV shapes in Draw.io.
   To test your custom shapes:
   1. Copy and paste the XML code into the Shape Editor.
   2. In Draw.io, go to `Arrange > Insert > Shape` to open the Edit Shape dialog.
-  3. View and modify the XML structure of your shape.
+  3. View and modify the XML structure of your shape via preview button.
 
   Try it here: https://app.diagrams.net/
 
